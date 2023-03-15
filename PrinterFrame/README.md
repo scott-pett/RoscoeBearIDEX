@@ -1,4 +1,4 @@
-# The printer frame
+# The Printer Frame
 
 Like the Bear modifications for the Prusa MK3, the frame utilizes fairly typical 2040 aluminium extrusions with either 3D printed or metal brackets and braces. However, the lengths of most of the components are increased to allow for the greater width necessary to park the extruders away from the print bed. This allows each of the extruders to use the full bed area to print. The height is also increased.
 
@@ -22,6 +22,14 @@ For most of the time, the printed part files can be obtained from @gregsaun's gi
 Where I have developed different components, or where I use a different print file, they will be found in the STL folder - although they may be OBJ, 3MF or STEP format which are somewhat more robust. If you find issues with any files, please let me know,
 
 So at this point its worth pointing out the flipping obvious, that in the grand 3D printing tradition, you will need access to a 3D printer to create the new 3D printer. Failing that a 3D print serivce may be availed upon to do the necessary.
+
+The file format for printed files goes along the lines of:-
+
+    partname_quantity_option_material
+    
+eg: Joining_plate_10off_Plain_PETG.stl
+
+
 
 # Fixings
 Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If oyu only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them.
