@@ -59,7 +59,7 @@ The BTT Octopus board allowed for up to 5 thermisters. I have them as follows:
 
 
 # Heated Bed
-The heated bed is a generic 24 volt 300mm x 200mm MK2-B (I think) with a BuildTak flexplate print surface form [3DJake](https://www.3djake.uk)
+The heated bed is a generic 24 volt 300mm x 200mm MK2-B (I think) with a BuildTak flexplate print surface from [3DJake](https://www.3djake.uk)
 
 
 
@@ -86,15 +86,11 @@ The Roscoe uses a string of NeoPixels arranged on a bracket above the bed. There
 # Alternatives
 1. Control board could be a FYSETC Spider board - the Roscoe IDEX requires seven stepper motors to fully enable twin extruders and two independant Z motors. I did originally use an MKS RUMBA32 clone, but this only has support for six steppers and you have to do without the twin Z steppers and automatic gantry levelling. However this can be hacked reasonably well with a gcode script if a RUMBA32 or other six stepper board is all you have.
 
-2. Stepper drivers could be TMC2209 for Stallguard on X, U and Y axis with TMC2208 for the extruders and Z motors. Although TMC have moved on now with driver options, the 22xx series drivers are more than adequate for the motor current requirement. You could always modify the endstop arrangement to something more tradiitonal if that is you require. There's nothing wrong with A4988 and microswitch endstops. But I do like the quietness of the TMC drivers. You can hear the bearings squeak when they dry out.
+2. Stepper drivers could be TMC2209 for Stallguard on X, U and Y axis with TMC2208 for the extruders and Z motors. Although TMC have moved on now with driver options, the 22xx series drivers are more than adequate for the motor current requirement. You could always modify the endstop arrangement to something more tradiitonal if that is what you or your budget requires. There's nothing wrong with A4988 and microswitch endstops. But I do like the quietness of the TMC drivers. You can hear the bearings squeak when they dry out!
 
-3. Heated bed - In order to keep the weight down I have used a lightweight PCB heated bed with a flexible spring steel sheet system carrying a BuildTaK print surface. i originally intened to fit an aluminium bed carriage. Suitable laser of waterjet cut. But I started building the printer shortly before the first COVID lockdown in 2020 and getting special stuff made became quite difficult - as well as trvelling around the country to collect parts. So, my Roscoe Bear IDEX has an acrylic bed carriage. I printed out the DXF outline and stuck on a sheet of 5mm acrylic and got to work wiht drills and hack saw. It is of course a lot lighter than and equivalent aluminium carriage although I doubtit would work too well in an enclosed casing as it would warp when it got hot. Marlin's BiLinear Mesh Bed Levelling appears to work sufficienty well for the moment.
+3. Heated bed - In order to keep the weight down I have used a lightweight PCB heated bed with a flexible spring steel sheet system carrying a BuildTaK print surface. i originally intened to fit an aluminium bed carriage. Suitable laser of waterjet cut. But I started building the printer shortly before the first COVID lockdown in 2020 and getting special stuff made became quite difficult - as well as trvelling around the country to collect parts. So, my Roscoe Bear IDEX has an acrylic bed carriage. I printed out the DXF outline and stuck on a sheet of 5mm acrylic and got to work wiht drills and hack saw. It is of course a lot lighter than and equivalent aluminium carriage although I doubtit would work too well in an enclosed casing as it would warp when it got hot. Marlin's BiLinear Mesh Bed Levelling appears to work sufficienty well for the moment. Of course a glass sheet and blue tape could be used if that is your preference but will increase the bed weight somewhat. Definitely a candidate for input shaping algorythims of some sort. My favourite, especially for PETG is a textured PEI surface which will be a future upgrade, once I find one - Maybe when the BuildTak surface wears out.
 
-Of course a glass sheet and blue tape could be used if that is your preference but will increase the bed weight somewhat. Definitely a candidate for input shaping algorythims of some sort.
-
-My favourite, especially for PETG is a textured PEI surface which will be a future upgrade, once I find one - Maybe when the BuildTak surface wears out.
-
-4. Extruder options are of course to use the E3D Revo 6 hotend or with some work, a Voron Stealthburner hotend with Clockwork 1 or 2 extruder and blingie RGB LEDs in it. - up to you really. There is a lot of work involved in getting the Stealburner to fit onto the exisitng carriage arrangement though.
+4. Extruder options are of course to use the E3D Revo 6 hotend or a Voron Stealthburner hotend with Clockwork 1 or 2 extruder and blingie RGB LEDs in it. - up to you really. There is a lot of work involved in getting the Stealburner to fit onto the exisitng carriage arrangement though.
 
 5. Many other ideas as they occur.
 
