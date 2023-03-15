@@ -9,10 +9,10 @@ When ordering the metalwork it is probably best to obtain the parts pre-cut to l
 
 Here's a specification for the extrusions:
 
-X extrusion   570mm long - 2 required
-Y extrusion   331mm long - 2 required
-Z extrusion   415mm long - 2 required
-Top extrusion 490mm long - 1 required
+    X extrusion   570mm long - 2 required
+    Y extrusion   331mm long - 2 required
+    Z extrusion   415mm long - 2 required
+    Top extrusion 490mm long - 1 required
 
 I have found that even at this width, the extruders can get very close to one another and adding 5mm to the X and Top extrusions may make things a little easier space wise.
 
