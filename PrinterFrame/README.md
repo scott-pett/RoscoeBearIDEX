@@ -16,8 +16,17 @@ Here's a specification for the extrusions:
 
 I have found that even at this width, the extruders can get very close to one another and adding 5mm to the X and Top extrusions may make things a little easier space wise.
 
-# Printed Parts
+# Tapping the extrusions
+Some of the extrusions may require tapping to take a screw into the ends of the component. In my case only the tops of the Z components required this and it was fairly short work with some grease, a sharp M5 tap and either a steady eye or a tapping guide.
 
+If you have no idea what I'm talking about then your supplier may be able to tap the necessary extrusions prior to despatch.
+
+I will try and include a photograph of the process.
+
+I have found over the years that a decent set of Metric taps has been a useful inclusion in the 3D printing toolkit. I regularly use M3, M4 and M5. M2.5 and M2 occaisionally.
+
+
+# Printed Parts
 In addition you will need 10 off 90º Corner Joining Plates. Mine were 3D printed in PETG and have so far proved strong and resilient enough.
 
 For most of the time, the printed part files can be obtained from @gregsaun's github repository [here:](https://github.com/gregsaun/prusa_i3_bear_upgrade)
