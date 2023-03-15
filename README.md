@@ -9,7 +9,7 @@ Make it wider, taller and use most of the original Bear plastic parts to create 
 # History
 The design has been ongoing since 2017 or so and there is now a working prototype albeit lacking in certain features. The prototype has done useful work, but mainly as a single extruder printer :-)
 
-Looking back at some of the design files, things have change greeatly from the earliest concept.
+Looking back at some of the design files, things have change greatly from the earliest concept.
 
 # Electronics and Firmware
 The printer currently runs Marlin 2.1.x and uses a BTT Octopus control board with TMC2130 and TMC2208 stepper drivers along with an ancient RepRap Full Graphics Display. A Raspberry Pi 3B+ acts as an Octoprint host and provides WiFi network connectivity and 4.3" touch screen with Octoscreen (or Octodash) control.
