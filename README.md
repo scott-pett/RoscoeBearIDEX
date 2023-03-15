@@ -1,7 +1,7 @@
 # Roscoe Bear IDEX 3D Printer
 
 ![image](images/RoscoeMar23.jpeg)
-__Roscoe as of March 2023__
+__Roscoe Bear IDEX as of March 2023__
 
 This is a remix of @gregsaun's excellent Prusa i3 Bear frame upgrade for the Prusa MK3S.
 
