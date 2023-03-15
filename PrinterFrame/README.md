@@ -1,5 +1,7 @@
 # The Printer Frame
 
+![image](images/FrameComponents.jpeg)
+
 Like the Bear modifications for the Prusa MK3, the frame utilizes fairly typical 2040 aluminium extrusions with either 3D printed or metal brackets and braces. However, the lengths of most of the components are increased to allow for the greater width necessary to park the extruders away from the print bed. This allows each of the extruders to use the full bed area to print. The height is also increased.
 
 When ordering the metalwork it is probably best to obtain the parts pre-cut to length as they need to be cut accurately. My frame components were supplied by [Ooznest](https://ooznest.co.uk) in the UK. I have no links with them other thna a satisfied customer. You will, of course, use your preferred supplier.
