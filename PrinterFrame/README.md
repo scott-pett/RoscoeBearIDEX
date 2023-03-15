@@ -21,18 +21,20 @@ For most of the time, the printed part files can be obtained from @gregsaun's gi
 
 Where I have developed different components, or where I use a different print file, they will be found in the STL folder - although they may be OBJ, 3MF or STEP format which are somewhat more robust. If you find issues with any files, please let me know,
 
-So at this point its worth pointing out the flipping obvious, that in the grand 3D printing tradition, you will need access to a 3D printer to create the new 3D printer. Failing that a 3D print serivce may be availed upon to do the necessary.
+So at this point its worth pointing out the flipping obvious, that in the grand 3D printing tradition, you will need access to a 3D printer to create parts for the the new 3D printer. Failing that a 3D print serivce may be availed upon to do the necessary.
 
-The file format for printed files goes along the lines of:-
+The filename format for printed parts goes along the lines of:-
 
     partname_quantity_option_material
-    
+
 eg: Joining_plate_10off_Plain_PETG.stl
+
+Generally, the materials I use are:- PETG for most of the structural components and a flex ot TPU filament for some parts. Of course if you wish and are able to print good quality ABS or ASA components then the print files should be suitable. I tend to stay clear of PLA for structural work like this, although some of the newer PLA+ filaments may prove durable enough. If you ultimately decide to place the printer in an enclosure, then ABS should be preferred but I have used my Prusa clone with PETG parts in an enclosure for some years and it's not fallen apart - yet.
 
 
 
 # Fixings
-Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If oyu only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them.
+Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If you only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them. Head here for the Bear BOM: https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/bom.md
 
 
 
