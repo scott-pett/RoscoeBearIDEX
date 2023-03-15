@@ -1,6 +1,6 @@
 # Roscoe Bear IDEX 3D Printer
 
-![image](images/IMG_3364.jpeg)
+![image](images/RoscoeMar23.jpeg)
 
 This is a remix of the Bear frame upgrade to the Prusa MK3S.
 
