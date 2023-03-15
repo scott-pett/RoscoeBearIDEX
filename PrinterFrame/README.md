@@ -18,7 +18,7 @@ I have found that even at this width, the extruders can get very close to one an
 
 # Printed Parts
 
-In addition you will need 10 off 90º Corner Joining Plates. Mine were 3D printed in PETG and have so far proved strong and resilient enough. P
+In addition you will need 10 off 90º Corner Joining Plates. Mine were 3D printed in PETG and have so far proved strong and resilient enough.
 
 For most of the time, the printed part files can be obtained from @gregsaun's github repository [here:](https://github.com/gregsaun/prusa_i3_bear_upgrade)
 
@@ -32,12 +32,12 @@ The filename format for printed parts goes along the lines of:-
 
 eg: Joining_plate_10off_Plain_PETG.stl
 
-Generally, the materials I use are:- PETG for most of the structural components and a flex ot TPU filament for some parts. Of course if you wish and are able to print good quality ABS or ASA components then the print files should be suitable. I tend to stay clear of PLA for structural work like this, although some of the newer PLA+ filaments may prove durable enough. If you ultimately decide to place the printer in an enclosure, then ABS should be preferred but I have used my Prusa clone with PETG parts in an enclosure for some years and it's not fallen apart - yet.
+Generally, the materials I use are:- PETG for most of the structural components and a flex or TPU filament for some parts. Of course if you wish and are able to print good quality ABS or ASA components then the print files should be suitable. I tend to stay clear of PLA for structural work like this, although some of the newer PLA+ filaments may prove durable enough. If you ultimately decide to place the printer in an enclosure, then ABS should be preferred but I have used my Prusa clone with PETG parts in an enclosure for some years and it's not fallen apart - yet.
 
 
 
 # Fixings
-Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If you only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them. Head here for the [Bear BOM:](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/bom.md)
+Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras. If you only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them. Head here for the [Bear BOM:](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/bom.md)
 
 
 
