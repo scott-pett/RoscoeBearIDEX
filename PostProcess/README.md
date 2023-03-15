@@ -12,7 +12,7 @@ You will need to have Python3 installed on your system along with any necessary 
 
 Test manually at first to ensure the paths are setup correctly.
 
-    <path>/python3 idex_fan_m106.py gcodefilename.gcode
+    <pathto>/python3 <pathto>idex_fan_m106.py <pathto>gcodefilename.gcode
 
 It will overwrite the gcode file and you should see something like this:
 
