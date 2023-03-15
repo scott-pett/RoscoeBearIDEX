@@ -17,7 +17,7 @@ I have found that even at this width, the extruders can get very close to one an
 
 In addition you will need 10 off 90º Corner Joining Plates. Mine were 3D printed in PETG and have so far proved strong and resilient enough. P
 
-For most of the time, the printed part files can be obtained from @gregsaun's github repository here:  https://github.com/gregsaun/prusa_i3_bear_upgrade
+For most of the time, the printed part files can be obtained from @gregsaun's github repository [here:](https://github.com/gregsaun/prusa_i3_bear_upgrade)
 
 Where I have developed different components, or where I use a different print file, they will be found in the STL folder - although they may be OBJ, 3MF or STEP format which are somewhat more robust. If you find issues with any files, please let me know,
 
@@ -34,7 +34,7 @@ Generally, the materials I use are:- PETG for most of the structural components 
 
 
 # Fixings
-Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If you only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them. Head here for the Bear BOM: https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/bom.md
+Fixings for the frame are M5 button head screws in various lengths along with M5 Tee nuts. the Bear Bill of Materials (BOM) should be pretty accurate for our needs, but its worth purchasing extras screws. If you only have enough, then one will invariably disappear behind a box in your workshop. If you purchase spares, then "The Law" says you will not need them. Head here for the [Bear BOM:](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/bom.md)
 
 
 
