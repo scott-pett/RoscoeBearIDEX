@@ -5,7 +5,7 @@ __Roscoe Bear IDEX as of March 2023__
 
 This is a remix of @gregsaun's excellent Prusa i3 Bear frame upgrade for the Prusa MK2 and MK3 printers.
 
-I made it wider, taller and use most of the original Bear plastic parts to create a much wider printer to make room for a 300mm x 200mm bed and two independant extruders. Print height is approximately 230mm, but I'm hoping to improve on that slightly without spending too much money.
+I made it wider, taller and use most of the original Bear plastic parts to create a much longer X gantry to make room for a 300mm x 200mm bed and parking space for the two independant extruders. Print height is approximately 230mm, but I'm hoping to improve on that slightly without spending too much money.
 
 
 # History
@@ -15,7 +15,7 @@ Looking back at some of the design files, things have changed greatly from the e
 
 
 # Electronics and Firmware
-The printer currently runs Marlin 2.1.x and uses a BTT Octopus V1.1 control board with TMC2130 and TMC2208 stepper drivers along with an ancient RepRap Full Graphics Display. A Raspberry Pi 3B+ acts as an Octoprint host and provides WiFi network connectivity and 4.3" touch screen with Octoscreen (or Octodash) for control. The printer can be operated from either screen and files printed from either SD card or via Octoprint. A raspberry pi camera can be fitted if required.
+The printer currently runs Marlin 2.1.3 and is controlled by a BTT Octopus V1.1 control board with TMC2130 and TMC2208 stepper drivers along with an ancient RepRap Full Graphics Display. A Raspberry Pi 3B+ acts as an Octoprint host and provides WiFi network connectivity and 4.3" touch screen with Octoscreen (or Octodash) for control. The printer can be operated from either screen and files printed from either SD card or via Octoprint. A CSI or USB webcam can be fitted if required.
 
 
 # Klipper as an option
